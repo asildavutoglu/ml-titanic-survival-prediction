@@ -125,3 +125,6 @@ The model achieved around 80% accuracy on the test set.
 - Add more feature engineering
 - Deploy the Streamlit app online
 - Add screenshots to the README
+
+
+![App Screenshot](images/app-screenshot.png)
